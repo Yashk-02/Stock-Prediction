@@ -1,8 +1,6 @@
 """
 ==================================================================
-UCD MIS41110 Business Analytics
-Assignment Type: Group Project
-Assignment Name: Stock Data Descriptive and Predictive Analytics
+Stock Data Descriptive and Predictive Analytics
 ==================================================================
 
 """
